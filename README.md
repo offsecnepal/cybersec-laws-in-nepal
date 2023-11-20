@@ -1,4 +1,3 @@
-# cybersec-laws-in-nepal
 # Cyber Crime in Nepal
 
 ## What is Cybercrime?
@@ -51,3 +50,7 @@ Each offense stipulates fines, imprisonment, or both as punitive measures.
 - Computer fraud: Fine not exceeding one hundred thousand Rupees or imprisonment not exceeding two years or both (Section 52, ETA2063)
 - Abetting computer-related offenses: Fine not exceeding fifty thousand Rupees or imprisonment not exceeding six months or both (Section 53, ETA 2063)
 - Offense committed outside Nepal: Laws apply regardless of location if involving Nepalese computer systems (Section 55, ETA 2063)
+
+
+
+Reference: https://www.primelawnepal.com/
